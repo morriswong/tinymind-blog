@@ -1,5 +1,10 @@
 [
   {
+    "id": "1732285044124",
+    "content": "**Github as a consistency tracker**\n\nThe built-in heat map of your contributions on Github is the reason why I choose to write on Github daily. I don't have to worry about anything, but just write on.\n\nHowever, it only tracks the consistency of showing up, but not the consistency of how thoughtful you are. You can throw in some lorem ipsum and it will still count you as showing up.\n\nOf course I tried to be as thoughtful as possible, but I treat this as a daily exercise of my mind, where I and \"inference\" my mind and think through a lot of the things in life. \n\nThe lesson here is showing up consistently is good, but showing up with a mindful direction to head to is better. Gotta start working on the second a bit more now.",
+    "timestamp": "2024-11-22T14:17:24.124Z"
+  },
+  {
     "id": "1732181076445",
     "content": "**The context window and the telegram**\n\nOne of the limitation of many LLMs out there is something called the context window, which is essentially how many words (or tokens) that you can \"fit\" into the context that the model can read. If the context is very long, then you would have to think about the ways to break it down into smaller chunks.\n\nThis reminded me of the telegram that we used back in the days before telephone was a thing. Sending telegrams was expensive at the time, so people would skip gramma all together so save words. Instead of writing \"I will arrive at the train station at 3 PM,\" they might write \"ARR TRAIN STA 3 PM.\" \n\nThis makes me think of our communication, we had enough of these communication now from our sms or notification of an app. But what we need more in times like this is perhaps more authentic and live communication.",
     "timestamp": "2024-11-21T09:24:36.446Z"
