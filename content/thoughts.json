@@ -1,5 +1,10 @@
 [
   {
+    "id": "1732999698856",
+    "content": "**Before you automate it**\n\nA lot of the people talks about how AI will automate jobs. This reminds me of how Elon Musk thinks about automation in the following 5 steps:\n\n1. Make Requirements Less Dumb\n2. Delete the Part or Process Step\n3. Optimize\n4. Accelerate\n5. Automate\n\nThink of a simpler requirement and take out steps first before you automate things!",
+    "timestamp": "2024-11-30T20:48:18.856Z"
+  },
+  {
     "id": "1732873490007",
     "content": "**Franchising Software**\n\nYou might have been to some fast food chains, and most fast food chains are a franchise. You take the brand and their quality control system to just simply run the chains.\n\nWhat happens if it's franchising software? It made me think whether this is possible. One obvious difference is that software distribution has a near zero marginal cost, so that is why it doesn't make sense. \n\nBut if we further dig deeper into more complicated workflows, it is the templates that is like a franchise. Instead of building it from scratch, one can just pick up a template and go from there.\n\nThe idea of franchising and templates have things in common that helps to scale the experience.",
     "timestamp": "2024-11-29T09:44:50.007Z"
