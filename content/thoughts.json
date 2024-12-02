@@ -1,5 +1,10 @@
 [
   {
+    "id": "1733144026514",
+    "content": "**Spaghetti prompt and post it notes**\n\nWhat does prompts and post it notes have in common? It is messy!\n\nThere is this term called “Spaghetti code”, where instead of clearly structured code, it is all over the place like Spaghetti. The era of prompts has opened up the floodgates of not code but free text that we call it prompt.\n\nBut if we think of prompts to be like post it notes, it been around for a long time and it is still around. Well organised notebooks or software didn’t “kill” post it notes. Post it notes works just fine.\n\nIf we are in an era that we enable everyone to build, the path from post it notes to a system that people can put a punch card in and it just works is what we should be looking into, because while that is clear to developers, it is still not clear for the rest of the billions of the people to truly be empowered.",
+    "timestamp": "2024-12-02T12:53:46.514Z"
+  },
+  {
     "id": "1733072761141",
     "content": "**Where drag and drop made sense**\n\nThere is a lot of promise around low code tools, and a lot of them has a \"drag and drop\" feature.\n\nAs a developer, you would easily say no to a drag and drop way of doing things because it would usually create chaos and silos. That being said, using website builder as an example, there are still tons of drag and drop website builder out there in the market.\n\nPerhaps it is the segment of software development that makes drag and drop make sense. If the flow is very complicated, chances are first of all, it doesn't have to be that complicated, and if it is indeed a very complicated process, the low code promise doesn't apply here.\n\nHow to identify the threshold where low code made sense? The limit test is whether an average LLM can figure it out a flow, if it is not then maybe it's time to look beyond low code tools.",
     "timestamp": "2024-12-01T17:06:01.141Z"
